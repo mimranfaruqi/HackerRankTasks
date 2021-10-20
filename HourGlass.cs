@@ -11,7 +11,7 @@ namespace HackerRank
     {
         /// <summary>
         /// Result of Hour Glass problem - highest value among the sum of all glasses in a 6x6 matrix.
-        /// The problem is defined at <see href="https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&amp;h_l=interview&amp;playlist_slugs%5B%5D=interview-preparation-kit&amp;playlist_slugs%5B%5D=arrays"/>
+        /// The problem is defined at <see href="https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays"/>
         /// </summary>
         /// <param name="arr"></param>
         /// <returns></returns>
